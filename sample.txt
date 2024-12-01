@@ -4,3 +4,5 @@ tomcat
 jenkins
 github
 j2ee
+EKS
+PREMITHUES
