@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sonar
 nexus
 tomcat
@@ -16,3 +17,13 @@ deepkanth
 789
 
 Hello welcome to IDA
+=======
+Dell
+HP
+SONY
+
+maven
+nexus
+sonarQube
+jenkins
+>>>>>>> development
