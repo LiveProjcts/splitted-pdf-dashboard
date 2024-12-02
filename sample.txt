@@ -1,3 +1,8 @@
 Dell
 HP
 SONY
+
+maven
+nexus
+sonarQube
+jenkins
