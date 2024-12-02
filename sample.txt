@@ -12,3 +12,9 @@ jenkins
 monitoring tools
 nuralic
 premithues
+
+
+c
+c++
+java
+python
