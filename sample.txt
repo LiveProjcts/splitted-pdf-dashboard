@@ -1,5 +1,0 @@
-sonar
-nexus
-tomcat
-jenkins
-
