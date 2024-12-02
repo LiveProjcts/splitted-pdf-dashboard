@@ -11,3 +11,4 @@ fi
 #!/bin/bash
 # A simple shell script to print Hello, World!
 echo "Hello, World!"
+echo "Welocome IDA"
