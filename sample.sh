@@ -8,4 +8,6 @@ if [ -f "$FILE" ]; then
 else
     echo "$FILE does not exist."
 fi
-
+#!/bin/bash
+# A simple shell script to print Hello, World!
+echo "Hello, World!"
