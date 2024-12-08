@@ -11,7 +11,4 @@ fi
 #!/bin/bash
 # A simple shell script to print Hello, World!
 echo "Hello, World!"
-echo "Welocome IDA"
-echo "balaji"
-echo "yaswanth"
-welcome to legacie techno
+Bangelore is a metrocity
