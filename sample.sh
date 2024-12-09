@@ -1,2 +1,4 @@
 shellscript 
 Dockers
+sonarqube
+maven
