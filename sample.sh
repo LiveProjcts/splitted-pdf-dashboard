@@ -1,4 +1,0 @@
-shellscript 
-Dockers
-sonarqube
-maven
